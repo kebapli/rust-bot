@@ -1,7 +1,7 @@
 # Rust Discord Bot
 
-Hello guys, this discord bot is a rust template thats capable of doing moderation, fun commands and verifying!
-All you gotta do is either fork this, download it or use `git clone https://github.com/kebapli/rust-bot` and move on to how to run it section
+Hello guys, this discord bot is a rust template that's capable of doing moderation, fun commands and verifying!
+All you gotta do is either fork this, download it or use `git clone https://github.com/kebapli/rust-bot` and move on to how to run it section. Before running this, make sure to have latest rust version.
 
 ## WARNING:
 
