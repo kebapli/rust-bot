@@ -11,3 +11,4 @@ pub fn get_all_commands() -> Vec<poise::Command<BotState, Error>> {
         // Add your dynamic session command here
         commands::blackjack::blackjack(),
     ]
+}
